@@ -42,6 +42,10 @@ public class Genre implements Serializable {
         this.name = name;
     }
 
+    public List<Movie> getMovies() {
+        return movies;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
