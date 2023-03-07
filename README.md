@@ -94,6 +94,6 @@ cd bds04-challenge-moveflix-dominio-autorizacao
 
 ## Licença
 
-The [MIT License]()(MIT)
+The [MIT License](https://github.com/4lmeida/bds04-challenge-moveflix-dominio-autorizacao/blob/main/License)(MIT)
 
 Copyright :copyright: 2023 - Movie Flix
