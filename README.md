@@ -1,4 +1,4 @@
-<h1 align="center"> :white_check_mark:Movie Flix:closed_lock_with_key: </h1>
+<h1 align="center"> :movie_camera: Movie Flix :tv: </h1>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=spring&message=framework&color=blue&style=for-the-badge&logo=SPRING"/>
   <img src="https://img.shields.io/static/v1?label=Postman&message=API management&color=blue&style=for-the-badge&logo=postman"/>
@@ -47,18 +47,16 @@ usuários membros podem inserir avaliações no sistema.
 
 - Endpoints:
 
-![]()
-
-- Validações:
-
-![]()
+![](https://github.com/4lmeida/bds04-challenge-moveflix-dominio-autorizacao/blob/main/src/assets/bds4-challenge-movieflix-endpoint.gif)
 
 - Testes:
 
-![]()
+![](https://github.com/4lmeida/bds04-challenge-moveflix-dominio-autorizacao/blob/main/src/assets/bds4-challenge-movieflix-tests.gif)
 
 # Modelo conceitual :page_with_curl:
-![Modelo Conceitual]()
+![Modelo Conceitual](https://github.com/4lmeida/bds04-challenge-moveflix-dominio-autorizacao/blob/main/src/assets/domain-model-movieflix.png)
+
+![Padrão camadas](https://github.com/4lmeida/bds04-challenge-moveflix-dominio-autorizacao/blob/main/src/assets/padrao-camadas.png)
 
 ## Linguagens, dependencias e libs utilizadas :books:
 - [JAVA](https://www.java.com/pt-BR/)
@@ -79,10 +77,10 @@ Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-https://github.com/4lmeida/challenge-validation-security.git
+https://github.com/4lmeida/bds04-challenge-moveflix-dominio-autorizacao.git
 
-# entrar na pasta do projeto challenge-validation-security
-cd challenge-validation-security
+# entrar na pasta do projeto bds04-challenge-moveflix-dominio-autorizacao
+cd bds04-challenge-moveflix-dominio-autorizacao
 
 # executar o projeto
 ./mvnw spring-boot:run
